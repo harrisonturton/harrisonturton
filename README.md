@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hey hey! 👋
+
+Software engineer based in Sydney. Currently working at [Canva](https://www.canva.com/) and studying a groovy mix of CS & philosphy at the ANU.
 
 <!--
+**Current Interests**
+
+- 🤓 WebGl with Rust & WebAssembly
+- 👔 Product management & business strategy
+- ✍️ Learning to write!
+
 **harrisonturton/harrisonturton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
