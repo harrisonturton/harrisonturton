@@ -1,6 +1,6 @@
 ### Hey hey! 👋
 
-I'm a software engineer based in Sydney, currently working at [Canva](https://www.canva.com/) and studying a groovy mix of CS & philosphy at the ANU.
+I'm a software engineer based in Sydney, currently working at [Canva](https://www.canva.com/) and studying a groovy mix of CS & philosophy at the ANU.
 
 <!--
 **Current Interests**
