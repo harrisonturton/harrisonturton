@@ -2,4 +2,6 @@
 
 I'm an Australian software engineer based in New York, working on distributed inference and routing at SpaceXAI.
 
-I'm a systems engineer who likes low-level infrastructure, distributed systems, networking, and hardware. On the side I like to play with projects that circle around electrical engineering, MCAD, and manufacturing.
+Previously I worked on low-latency video compositing and high-bandwidth media storage/distribution at Canva.
+
+I'm a systems engineer. I like low-level infrastructure, distributed systems, networking, and hardware. On the side I like to play with projects that circle around electrical engineering, MCAD, and manufacturing.
